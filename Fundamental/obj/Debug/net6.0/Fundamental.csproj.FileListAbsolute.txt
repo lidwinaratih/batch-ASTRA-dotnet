@@ -1,0 +1,15 @@
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\bin\Debug\net6.0\Fundamental.exe
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\bin\Debug\net6.0\Fundamental.deps.json
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\bin\Debug\net6.0\Fundamental.runtimeconfig.json
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\bin\Debug\net6.0\Fundamental.dll
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\bin\Debug\net6.0\Fundamental.pdb
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\obj\Debug\net6.0\Fundamental.csproj.AssemblyReference.cache
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\obj\Debug\net6.0\Fundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\obj\Debug\net6.0\Fundamental.AssemblyInfoInputs.cache
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\obj\Debug\net6.0\Fundamental.AssemblyInfo.cs
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\obj\Debug\net6.0\Fundamental.csproj.CoreCompileInputs.cache
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\obj\Debug\net6.0\Fundamental.dll
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\obj\Debug\net6.0\refint\Fundamental.dll
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\obj\Debug\net6.0\Fundamental.pdb
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\obj\Debug\net6.0\Fundamental.genruntimeconfig.cache
+C:\Users\E5470\Bootcamp\Fundamental\Fundamental\obj\Debug\net6.0\ref\Fundamental.dll
